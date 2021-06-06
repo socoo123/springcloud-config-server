@@ -1,0 +1,1 @@
+# 模拟一个简单的spring cloud config的配置
